@@ -1,13 +1,13 @@
 {
-  "name": "proxy",
+  "name": "app",
   "version": "1.0.2",
   "description": "An HTTP proxy written with Node.js (think Squid)",
-  "main": "proxy.js",
+  "main": "app.js",
   "scripts": {
     "test": "mocha --reporter spec",
     "start": "node ./bin/proxy.js"
   },
-  "bin": "./bin/proxy.js",
+  "bin": "./bin/app.js",
   "keywords": [
     "http",
     "https",
