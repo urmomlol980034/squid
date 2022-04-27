@@ -134,3 +134,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [Privoxy]: http://www.privoxy.org/
 [Apache]: http://www.apache.org/
 [mod_proxy]: http://httpd.apache.org/docs/current/mod/mod_proxy.html
+
+
+#deploy
+<a href="https://heroku.com/deploy?template=https://github.com/urmomlol980034/squid" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://www.herokucdn.com/deploy/button.svg" width="140" height="30"><img></a>
+&nbsp;
